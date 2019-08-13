@@ -6,10 +6,10 @@ import (
 	"io"
 	"time"
 
-	"github.com/kubeedge/viaduct/pkg/api"
-	"github.com/kubeedge/viaduct/pkg/cmgr"
-	"github.com/kubeedge/viaduct/pkg/conn"
-	"github.com/kubeedge/viaduct/pkg/mux"
+	"github.com/clarklee92/viaduct/pkg/api"
+	"github.com/clarklee92/viaduct/pkg/cmgr"
+	"github.com/clarklee92/viaduct/pkg/conn"
+	"github.com/clarklee92/viaduct/pkg/mux"
 )
 
 // notify a new connection

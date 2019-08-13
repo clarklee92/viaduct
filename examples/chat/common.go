@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/kubeedge/beehive/pkg/common/log"
-	"github.com/kubeedge/viaduct/examples/chat/config"
+	"github.com/clarklee92/beehive/pkg/common/log"
+	"github.com/clarklee92/viaduct/examples/chat/config"
 )
 
 func GetTlsConfig(cfg *config.Config) (*tls.Config, error) {

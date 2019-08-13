@@ -8,9 +8,9 @@ import (
 
 	"github.com/golang/mock/gomock"
 
-	"github.com/kubeedge/beehive/pkg/core/model"
-	"github.com/kubeedge/viaduct/mocks"
-	"github.com/kubeedge/viaduct/pkg/translator"
+	"github.com/clarklee92/beehive/pkg/core/model"
+	"github.com/clarklee92/viaduct/mocks"
+	"github.com/clarklee92/viaduct/pkg/translator"
 )
 
 // mockStream is mock of interface Stream.

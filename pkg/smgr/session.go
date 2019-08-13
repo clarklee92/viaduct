@@ -3,8 +3,8 @@ package smgr
 import (
 	"io"
 
-	"github.com/kubeedge/beehive/pkg/common/log"
-	"github.com/kubeedge/viaduct/pkg/api"
+	"github.com/clarklee92/beehive/pkg/common/log"
+	"github.com/clarklee92/viaduct/pkg/api"
 	"github.com/lucas-clemente/quic-go"
 )
 

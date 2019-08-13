@@ -3,9 +3,9 @@ package conn
 import (
 	"io"
 
-	"github.com/kubeedge/beehive/pkg/common/log"
-	"github.com/kubeedge/viaduct/pkg/api"
-	"github.com/kubeedge/viaduct/pkg/mux"
+	"github.com/clarklee92/beehive/pkg/common/log"
+	"github.com/clarklee92/viaduct/pkg/api"
+	"github.com/clarklee92/viaduct/pkg/mux"
 )
 
 // connection options

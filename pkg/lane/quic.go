@@ -3,10 +3,10 @@ package lane
 import (
 	"time"
 
-	"github.com/kubeedge/beehive/pkg/common/log"
-	"github.com/kubeedge/beehive/pkg/core/model"
-	"github.com/kubeedge/viaduct/pkg/packer"
-	"github.com/kubeedge/viaduct/pkg/translator"
+	"github.com/clarklee92/beehive/pkg/common/log"
+	"github.com/clarklee92/beehive/pkg/core/model"
+	"github.com/clarklee92/viaduct/pkg/packer"
+	"github.com/clarklee92/viaduct/pkg/translator"
 	"github.com/lucas-clemente/quic-go"
 )
 

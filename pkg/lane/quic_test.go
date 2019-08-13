@@ -9,9 +9,9 @@ import (
 	"github.com/golang/mock/gomock"
 	"github.com/lucas-clemente/quic-go"
 
-	"github.com/kubeedge/beehive/pkg/core/model"
-	"github.com/kubeedge/viaduct/pkg/packer"
-	"github.com/kubeedge/viaduct/pkg/translator"
+	"github.com/clarklee92/beehive/pkg/core/model"
+	"github.com/clarklee92/viaduct/pkg/packer"
+	"github.com/clarklee92/viaduct/pkg/translator"
 )
 
 var errorReturn error

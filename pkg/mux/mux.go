@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/kubeedge/beehive/pkg/core/model"
-	"github.com/kubeedge/viaduct/pkg/filter"
+	"github.com/clarklee92/beehive/pkg/core/model"
+	"github.com/clarklee92/viaduct/pkg/filter"
 )
 
 type ResponseWriter interface {

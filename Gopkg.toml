@@ -35,7 +35,7 @@
 
 [[constraint]]
   revision = "06e0cfa222f7190d54740dd11f0fc1bc9e8085cb"
-  name = "github.com/kubeedge/beehive"
+  name = "github.com/clarklee92/beehive"
 
 [[constraint]]
   name = "github.com/lucas-clemente/quic-go"

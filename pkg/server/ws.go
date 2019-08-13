@@ -7,11 +7,11 @@ import (
 	"strings"
 
 	"github.com/gorilla/websocket"
-	"github.com/kubeedge/beehive/pkg/common/log"
-	"github.com/kubeedge/viaduct/pkg/api"
-	"github.com/kubeedge/viaduct/pkg/conn"
-	"github.com/kubeedge/viaduct/pkg/lane"
-	"github.com/kubeedge/viaduct/pkg/utils"
+	"github.com/clarklee92/beehive/pkg/common/log"
+	"github.com/clarklee92/viaduct/pkg/api"
+	"github.com/clarklee92/viaduct/pkg/conn"
+	"github.com/clarklee92/viaduct/pkg/lane"
+	"github.com/clarklee92/viaduct/pkg/utils"
 )
 
 // websocket protocol server

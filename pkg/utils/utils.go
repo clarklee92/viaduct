@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/kubeedge/beehive/pkg/common/log"
+	"github.com/clarklee92/beehive/pkg/common/log"
 )
 
 func DeepCopyHeader(header http.Header) http.Header {

@@ -7,14 +7,14 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/kubeedge/beehive/pkg/common/log"
-	"github.com/kubeedge/beehive/pkg/core/model"
-	"github.com/kubeedge/viaduct/pkg/api"
-	"github.com/kubeedge/viaduct/pkg/comm"
-	"github.com/kubeedge/viaduct/pkg/fifo"
-	"github.com/kubeedge/viaduct/pkg/keeper"
-	"github.com/kubeedge/viaduct/pkg/lane"
-	"github.com/kubeedge/viaduct/pkg/mux"
+	"github.com/clarklee92/beehive/pkg/common/log"
+	"github.com/clarklee92/beehive/pkg/core/model"
+	"github.com/clarklee92/viaduct/pkg/api"
+	"github.com/clarklee92/viaduct/pkg/comm"
+	"github.com/clarklee92/viaduct/pkg/fifo"
+	"github.com/clarklee92/viaduct/pkg/keeper"
+	"github.com/clarklee92/viaduct/pkg/lane"
+	"github.com/clarklee92/viaduct/pkg/mux"
 )
 
 type WSConnection struct {

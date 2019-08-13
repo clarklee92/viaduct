@@ -1,8 +1,8 @@
 package filter
 
 import (
-	"github.com/kubeedge/beehive/pkg/common/log"
-	"github.com/kubeedge/beehive/pkg/core/model"
+	"github.com/clarklee92/beehive/pkg/common/log"
+	"github.com/clarklee92/beehive/pkg/core/model"
 )
 
 type FilterFunc func(*model.Message) error

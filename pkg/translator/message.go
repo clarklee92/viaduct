@@ -5,9 +5,9 @@ import (
 	"fmt"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/kubeedge/beehive/pkg/common/log"
-	"github.com/kubeedge/beehive/pkg/core/model"
-	"github.com/kubeedge/viaduct/pkg/protos/message"
+	"github.com/clarklee92/beehive/pkg/common/log"
+	"github.com/clarklee92/beehive/pkg/core/model"
+	"github.com/clarklee92/viaduct/pkg/protos/message"
 )
 
 type MessageTranslator struct {

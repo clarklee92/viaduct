@@ -7,13 +7,13 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/kubeedge/beehive/pkg/common/log"
-	"github.com/kubeedge/beehive/pkg/core/model"
-	"github.com/kubeedge/viaduct/examples/chat/config"
-	"github.com/kubeedge/viaduct/pkg/api"
-	"github.com/kubeedge/viaduct/pkg/client"
-	"github.com/kubeedge/viaduct/pkg/conn"
-	"github.com/kubeedge/viaduct/pkg/mux"
+	"github.com/clarklee92/beehive/pkg/common/log"
+	"github.com/clarklee92/beehive/pkg/core/model"
+	"github.com/clarklee92/viaduct/examples/chat/config"
+	"github.com/clarklee92/viaduct/pkg/api"
+	"github.com/clarklee92/viaduct/pkg/client"
+	"github.com/clarklee92/viaduct/pkg/conn"
+	"github.com/clarklee92/viaduct/pkg/mux"
 )
 
 var clientStdWriter = bufio.NewWriter(os.Stdout)

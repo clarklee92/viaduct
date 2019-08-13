@@ -3,7 +3,7 @@ package cmgr
 import (
 	"sync"
 
-	"github.com/kubeedge/viaduct/pkg/conn"
+	"github.com/clarklee92/viaduct/pkg/conn"
 )
 
 // the callback for getting connection key

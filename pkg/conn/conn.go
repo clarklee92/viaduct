@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/kubeedge/beehive/pkg/core/model"
+	"github.com/clarklee92/beehive/pkg/core/model"
 )
 
 // connection states

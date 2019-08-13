@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/kubeedge/beehive/pkg/common/log"
-	"github.com/kubeedge/viaduct/pkg/api"
-	"github.com/kubeedge/viaduct/pkg/comm"
+	"github.com/clarklee92/beehive/pkg/common/log"
+	"github.com/clarklee92/viaduct/pkg/api"
+	"github.com/clarklee92/viaduct/pkg/comm"
 	"github.com/lucas-clemente/quic-go"
 )
 

@@ -86,7 +86,7 @@
 
 [[projects]]
   digest = "1:6f466af3a665e8b0c3b7988b186990f59db467cb10060f4a8acd613cf32cc80e"
-  name = "github.com/kubeedge/beehive"
+  name = "github.com/clarklee92/beehive"
   packages = [
     "pkg/common/log",
     "pkg/common/util",
@@ -174,8 +174,8 @@
     "github.com/golang/mock/gomock",
     "github.com/golang/protobuf/proto",
     "github.com/gorilla/websocket",
-    "github.com/kubeedge/beehive/pkg/common/log",
-    "github.com/kubeedge/beehive/pkg/core/model",
+    "github.com/clarklee92/beehive/pkg/common/log",
+    "github.com/clarklee92/beehive/pkg/core/model",
     "github.com/lucas-clemente/quic-go",
   ]
   solver-name = "gps-cdcl"

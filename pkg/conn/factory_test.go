@@ -7,8 +7,8 @@ import (
 	"github.com/golang/mock/gomock"
 	"github.com/gorilla/websocket"
 
-	"github.com/kubeedge/viaduct/mocks"
-	"github.com/kubeedge/viaduct/pkg/api"
+	"github.com/clarklee92/viaduct/mocks"
+	"github.com/clarklee92/viaduct/pkg/api"
 )
 
 // mockSession is mock implementation of interface Session.

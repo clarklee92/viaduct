@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/kubeedge/beehive/pkg/common/log"
+	"github.com/clarklee92/beehive/pkg/common/log"
 )
 
 type MessageExpression struct {
